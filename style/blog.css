@@ -1,0 +1,25 @@
+.color{
+    color: rgb(255, 253, 253);
+     background-image: url('cody-fitzgerald-lWJeGCgVbYI-unsplash.jpg'); 
+     width: 30%;
+    /* background-color: blueviolet; */
+}
+.beauty{
+    font-size: larger;
+}
+ .innate{
+    font-style: italic;
+ }
+  .name{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+  }
+
+h3{
+    text-align: center;
+}
+li{
+    background-color: black;
+    width: 30%;
+    font-size: xx-large;
+}
